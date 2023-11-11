@@ -13,7 +13,6 @@ var zoom = 5
 var base_height = ProjectSettings.get_setting("display/window/size/viewport_height")
 
 var backgrounds = [
-	{ path = "res://backgrounds/lobby.hdr", name = "Lobby" }
 ]
 
 @onready var testers: Node3D = $Testers
